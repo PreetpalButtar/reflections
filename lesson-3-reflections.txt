@@ -7,3 +7,4 @@ Clone is for copying a repo from a remote computer to a local computer or to cre
 Branch is used when you are adding a new feature or doing some experiment.
 
 The benefit of having a copy of the last known state of the remote stored locally helps us to know at which stage the remote copy is.
+It would be very hard to collaborate without using Git or GitHub.
