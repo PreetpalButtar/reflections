@@ -1,3 +1,7 @@
 I would like to create a new file on GitHub rather than on my local computer whne I'm working on a project in collaboration with some other developers and the developers are located at remote locations.
 
 I have to manually pull the changes form GitHub rather than having Git automatically stay up-to-date with my remote repository because only I can decide when some logical changes have occurrred on GitHub.
+
+Fork is used when copying some other user's repo on GitHub to your own repo on GitHub.
+Clone is for copying a repo from a remote computer to a local computer or to create a copy of a repo on a local computer itself.
+Branch is used when you are adding a new feature or doing some experiment.
