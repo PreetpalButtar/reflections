@@ -1,1 +1,3 @@
 I would like to create a new file on GitHub rather than on my local computer whne I'm working on a project in collaboration with some other developers and the developers are located at remote locations.
+
+I have to manually pull the changes form GitHub rather than having Git automatically stay up-to-date with my remote repository because only I can decide when some logical changes have occurrred on GitHub.
